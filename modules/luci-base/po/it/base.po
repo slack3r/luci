@@ -2977,11 +2977,11 @@ msgstr "Logging"
 
 #: modules/luci-base/luasrc/view/sysauth.htm:38
 msgid "Login"
-msgstr "Login"
+msgstr "Accedi"
 
 #: modules/luci-base/luasrc/controller/admin/index.lua:92
 msgid "Logout"
-msgstr "Slogga"
+msgstr "Esci"
 
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/index.js:112
 msgid "Loss of Signal Seconds (LOSS)"
