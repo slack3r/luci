@@ -1972,10 +1972,10 @@ msgid "Logging"
 msgstr "Logging"
 
 msgid "Login"
-msgstr "Login"
+msgstr "Accedi"
 
 msgid "Logout"
-msgstr "Slogga"
+msgstr "Esci"
 
 msgid "Loss of Signal Seconds (LOSS)"
 msgstr ""
